@@ -1,0 +1,9 @@
+GET fso-phonebook-backend-ca.fly.dev/api/persons
+# content-type: application/json
+
+# {
+     
+#     "name": "Barry G",
+#     "number": "69420"
+  
+# }
