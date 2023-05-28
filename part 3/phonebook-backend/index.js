@@ -87,7 +87,7 @@ app.delete('/api/persons/:id', (req, res) => {
     // Add the new entry to the array
     phonebookEntries.push(newEntry);
   
-    // Return the new entry
+    // Return the new entry ff
     res.json(newEntry);
   });
 
